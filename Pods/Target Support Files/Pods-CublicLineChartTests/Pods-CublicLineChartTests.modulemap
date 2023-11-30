@@ -1,0 +1,6 @@
+framework module Pods_CublicLineChartTests {
+  umbrella header "Pods-CublicLineChartTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
